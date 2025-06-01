@@ -1,4 +1,4 @@
-# school_administration
+# school_administration  with SqLite
 
 A new Flutter project.
 
